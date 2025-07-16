@@ -15,7 +15,7 @@ This project is designed to facilitate intelligent feedback processing using Ope
 
 The following diagram illustrates the architectural flow of the system:
 
-![Architectural Flow Diagram]<img width="2794" height="2214" alt="AIPromptEngineering" src="https://github.com/user-attachments/assets/a9d0bc1b-f3eb-458d-8345-8885b9572753" />
+<img width="2794" height="2214" alt="AIPromptEngineering" src="https://github.com/user-attachments/assets/a9d0bc1b-f3eb-458d-8345-8885b9572753" />
 
 
 ## Modules Description
